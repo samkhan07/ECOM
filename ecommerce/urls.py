@@ -1,7 +1,7 @@
 """
 
-Developed By : sumit kumar
-facebook : fb.com/sumit.luv
+Developed By :  kumar
+facebook : fb.com/sameer.luv
 Youtube :youtube.com/lazycoders
 
 
